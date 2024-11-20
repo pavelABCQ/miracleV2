@@ -183,7 +183,7 @@ body {
     scrollbar-width: 0px;
     width: 95%;
     max-width: 900px;
-    height: 600px;
+    height: 1000px;
     background: rgba(0,0,0,0);
     position: relative;
     scroll-snap-type:y mandatory;
